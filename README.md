@@ -3,6 +3,7 @@ TheExplosiveSystem/TheExplosiveSystem is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 ![image](https://github.com/user-attachments/assets/d1692b8a-89c7-48dd-9b95-9ee4e73d6ff8)
+<img src="(https://github.com/user-attachments/assets/d1692b8a-89c7-48dd-9b95-9ee4e73d6ff8)" width="100" />
 
 **look at the strawpage** ! >-<
 
