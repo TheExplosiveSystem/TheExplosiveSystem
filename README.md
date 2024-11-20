@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![image](https://github.com/user-attachments/assets/d1692b8a-89c7-48dd-9b95-9ee4e73d6ff8)
 
-##look at the strawpage ! >-<
+**look at the strawpage** ! >-<
 
 
 ![IT NOX](https://github.com/user-attachments/assets/5e1aa45c-01f5-4b90-96ca-eb5ac9c5493b)
